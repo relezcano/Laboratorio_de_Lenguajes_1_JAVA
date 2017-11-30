@@ -21,7 +21,7 @@
 
 # Holamundo = Fué el primer ejemplo que hicimos al introducirnos en el mundo Java.
 
-#LaboratorioDeLenguajes1 = Aqui estan otros ejemplos mas hechos a lo largo de las clases virtuales.
+# LaboratorioDeLenguajes1 = Aqui estan otros ejemplos mas hechos a lo largo de las clases virtuales.
 
-# = VentanaJframe = Fue uno de los primeros, sino el primero de los ejemplos hechos utilizando JFrame de la libreria Swing para desarrollar ventanas. 
+# VentanaJframe = Fue uno de los primeros, sino el primero de los ejemplos hechos utilizando JFrame de la libreria Swing para desarrollar ventanas. 
 
